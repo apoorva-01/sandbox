@@ -1,0 +1,9 @@
+{
+  "name": "textkit",
+  "version": "0.1.0",
+  "description": "Tiny string helpers with zero dependencies",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
